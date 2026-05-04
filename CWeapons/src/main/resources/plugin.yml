@@ -1,0 +1,9 @@
+name: CWeapons
+version: '1.0-SNAPSHOT'
+main: org.cWeapons.CWeapons
+api-version: '1.21'
+authors: [ _chmonya ]
+commands:
+  cweapons:
+    usage: /cweapons give <назв> <игрок>
+    permission: cweapons.give
